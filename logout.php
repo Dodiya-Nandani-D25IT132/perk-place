@@ -1,6 +1,6 @@
 <?php
 session_start();
+session_unset();
 session_destroy();
-header("Location: admin_login.php");
-exit();
-?>
+header("Content-Type: application/json");
+echo json_encode(['status'=>'success','message'=>'Logged out successfully']);

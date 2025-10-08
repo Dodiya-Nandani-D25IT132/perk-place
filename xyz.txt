@@ -1,0 +1,49 @@
+PRACTICAL 2  : 10 pages   DONE
+
+PRACTICAL 3 :
+Create a user registration page with frontend validation using HTML5 and 
+JavaScript. 
+
+PRACTICAL 4:
+Create dynamic content such as collapsible FAQs, popups, and sliders in portal 
+pages. 
+
+PRACTICAL 5:
+Display events list and student profiles using object arrays and JSON parsing. 
+
+PRACTICAL 6:
+Store submitted registration data in a PHP file and confirm submission
+
+PRACTICAL 7:
+Create a login/logout system with session & cookie handling 
+
+PRACTICAL 8:
+Connect the portal with MySQL to store and retrieve user/event data 
+
+PRACTICAL 9:
+Submit form data using PHP and store it in a text file 
+
+PRACTICAL 10:
+Build a login system with sessions, logout, and a protected dashboard
+
+PRACTICAL 11:
+Store and retrieve student data from MySQL DB 
+
+PRACTICAL 12:
+Create a full CRUD for managing events with the DB 
+
+PRACTICAL 13:
+Implement validation, sanitization, and password hashing 
+
+PRACTICAL 14:
+Develop an admin dashboard to view/manage users 
+
+PRACTICAL 15:
+Integrate all modules into a single deployable “Project Title” Portal 
+
+\\\
+
+done:
+pract 1
+pract 2
+pract 3 
